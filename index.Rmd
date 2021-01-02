@@ -5,10 +5,12 @@ site: bookdown::bookdown_site
 documentclass: book
 output:
   bookdown::gitbook: default
-  #bookdown::pdf_book: default
+  bookdown::pdf_book: default
 ---
 
 # Hello World
+
+My first fork on github.
 
 Hi.
 
